@@ -1,4 +1,4 @@
-## List of Tailwind assignments ![Tailwind](./styling-Tailwind-blue.svg)
+## List of Tailwind assignments ![Tailwind](./img/styling-Tailwind-blue.svg)
 
 1. [Paytm Clone Home Page](https://github.com/pmat101/Paytm-Clone-Home-Page)
 

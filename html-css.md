@@ -1,4 +1,4 @@
-## List of HTML-CSS assignments ![HTML](./markup-HTML-orange.svg) ![CSS](./styling-CSS-blue.svg)
+## List of HTML-CSS assignments ![HTML](./img/markup-HTML-orange.svg) ![CSS](./img/styling-CSS-blue.svg)
 
 1. [Street Style Landing Page](https://github.com/pmat101/Street-Style-Landing-Page)
 

@@ -1,4 +1,4 @@
-## List of basic JavaScript assignments ![JavaScript](./programming-JavaScript-yellow.svg)
+## List of basic JavaScript assignments ![JavaScript](./img/programming-JavaScript-yellow.svg)
 
 - [JavaScript Questions](https://github.com/pmat101/JavaScript-Challenges)
 
