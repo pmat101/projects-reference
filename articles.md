@@ -1,23 +1,27 @@
 ## List of Article assignments
 
-1. [CSS Box Model (Padding, Margin, Border)]()
+1. [MARKDOWN cheat sheet](https://pranavmathur.hashnode.dev/markdown-cheat-sheet)
 
-2. [Flex Box](https://pranavmathur.hashnode.dev/css-flexible-box)
+2. [CSS Box Model (Padding, Margin, Border)]()
 
-3. [Positioning](https://pranavmathur.hashnode.dev/css-positioning)
+3. [CSS Selectors](https://pranavmathur.hashnode.dev/css-selectors)
 
-4. [HTML Element]()
+4. [Flex Box](https://pranavmathur.hashnode.dev/css-flexible-box)
 
-5. [Input Elements]()
+5. [Positioning](https://pranavmathur.hashnode.dev/css-positioning)
 
-6. [CSS Grid]()
+6. [HTML Element]()
 
-7. [Media Query]()
+7. [Input Elements]()
 
-8. [JavaScript Array and it’s methods (in-depth)](https://pranavmathur.hashnode.dev/arrays-in-javascript)
+8. [CSS Grid]()
 
-9. [JavaScript Object and it’s method]()
+9. [Media Query]()
 
-10. [JavaScript Functions]()
+10. [JavaScript Array and it’s methods (in-depth)](https://pranavmathur.hashnode.dev/arrays-in-javascript)
 
-11. [Flow of code execution in JavaScript]()
+11. [JavaScript Object and it’s method]()
+
+12. [JavaScript Functions]()
+
+13. [Flow of code execution in JavaScript]()
