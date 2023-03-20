@@ -1,4 +1,4 @@
-## List of Article assignments ![HTML](./img/markup-HTML-orange.svg) ![CSS](./img/styling-CSS-blue.svg) ![JavaScript](./img/programming-JavaScript-yellow.svg)
+## List of Article assignments
 
 1. [MARKDOWN cheat sheet](https://pranavmathur.hashnode.dev/markdown-cheat-sheet)
 
