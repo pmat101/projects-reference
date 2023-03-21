@@ -2,7 +2,7 @@
 
 1. [MARKDOWN cheat sheet](https://pranavmathur.hashnode.dev/markdown-cheat-sheet)
 
-2. [CSS Box Model (Padding, Margin, Border)]()
+2. [CSS Box Model (Padding, Margin, Border)](https://pranavmathur.hashnode.dev/css-box-model)
 
 3. [CSS Selectors](https://pranavmathur.hashnode.dev/css-selectors)
 
