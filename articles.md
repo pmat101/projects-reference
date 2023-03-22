@@ -10,7 +10,7 @@
 
 5. [Positioning](https://pranavmathur.hashnode.dev/css-positioning)
 
-6. [HTML Element]()
+6. [HTML Element](https://pranavmathur.hashnode.dev/html-elements)
 
 7. [Input Elements]()
 
