@@ -12,7 +12,7 @@
 
 6. [HTML Element](https://pranavmathur.hashnode.dev/html-elements)
 
-7. [Input Elements]()
+7. [Input Elements](https://pranavmathur.hashnode.dev/html-input-elements)
 
 8. [CSS Grid]()
 
