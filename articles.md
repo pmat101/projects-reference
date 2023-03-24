@@ -14,7 +14,7 @@
 
 7. [Input Elements](https://pranavmathur.hashnode.dev/html-input-elements)
 
-8. [CSS Grid]()
+8. [CSS Grid](https://pranavmathur.hashnode.dev/css-grid)
 
 9. [Media Query]()
 
