@@ -16,7 +16,7 @@
 
 8. [CSS Grid](https://pranavmathur.hashnode.dev/css-grid)
 
-9. [Media Query]()
+9. [Media Query](https://pranavmathur.hashnode.dev/media-queries)
 
 10. [JavaScript Array and it’s methods (in-depth)](https://pranavmathur.hashnode.dev/arrays-in-javascript)
 
