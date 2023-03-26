@@ -20,7 +20,7 @@
 
 10. [JavaScript Array and it’s methods (in-depth)](https://pranavmathur.hashnode.dev/arrays-in-javascript)
 
-11. [JavaScript Object and it’s method]()
+11. [JavaScript Object and it’s method](https://pranavmathur.hashnode.dev/javascript-objects-and-their-methods)
 
 12. [JavaScript Functions]()
 
