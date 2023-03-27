@@ -22,7 +22,7 @@
 
 11. [JavaScript Object and it’s method](https://pranavmathur.hashnode.dev/javascript-objects-and-their-methods)
 
-12. [JavaScript Functions]()
+12. [JavaScript Functions](https://pranavmathur.hashnode.dev/javascript-functions)
 
 13. [Flow of code execution in JavaScript]()
 
