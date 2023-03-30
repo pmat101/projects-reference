@@ -18,12 +18,12 @@
 
 9. [Media Query](https://pranavmathur.hashnode.dev/media-queries)
 
-10. [JavaScript Array and it’s methods](https://pranavmathur.hashnode.dev/arrays-in-javascript) <!-- in-depth -->
+10. [JavaScript Array and it’s methods](https://pranavmathur.hashnode.dev/arrays-in-javascript) <!-- go in-depth -->
 
 11. [JavaScript Object and it’s method](https://pranavmathur.hashnode.dev/javascript-objects-and-their-methods)
 
 12. [JavaScript Functions](https://pranavmathur.hashnode.dev/javascript-functions)
 
-13. [Flow of code execution in JavaScript]()
+13. [Flow of code execution in JavaScript](https://pranavmathur.hashnode.dev/flow-of-code-execution-in-javascript)
 
 14. [JS interview cheat sheet](https://pranavmathur.hashnode.dev/js-interview-cheat-sheet) <!-- scope (lexical, block, chaining), single-thread (how and why with diagram), call-stack, hoisting -->
